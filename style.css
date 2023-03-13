@@ -1,0 +1,56 @@
+#header{
+    height: 1000;
+    width: 70%;
+    margin: auto;
+}
+
+#header img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-shadow: 2px 5px #ccc ;
+}
+#header h1{
+    text-align: center;
+
+    color: blue;
+
+}
+#header h2{
+    position:relative;left: 160px;
+
+    color: rgb(201, 126, 28) ;
+
+}
+#header h3{
+    position:relative;left: 160px;
+
+    color: rgb(241, 186, 115);
+
+}
+
+#header p{
+    position:relative;left:160px;
+    line-height: 30px;
+}
+
+#content{
+    height: 1000;
+    width: 70%;
+    margin: auto;
+}
+
+#content h1{
+    color:rgb(58, 218, 239);
+}
+
+#content p{
+   
+}
+
+#content h2{
+    color:rgb(58, 218, 239);
+
+}
